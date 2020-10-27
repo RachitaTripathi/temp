@@ -1,0 +1,34 @@
+.mainContainer {
+  margin-top: 10%;
+  margin-left: 7%;
+  margin-right: 7%;
+  padding: 10px;
+  display: flex;
+  border: 1px groove black;
+  border-radius: 10px;
+}
+.imageUpload {
+  margin-left: 40%;
+  width: 12%;
+}
+.imgBox {
+  border: 1px solid black;
+  height: 75%;
+  border-radius: 4px;
+}
+.imgButtonUpload {
+  margin-top: -70%;
+  margin-left: 13%;
+}
+.accordionContainer {
+  margin-left: 7%;
+  margin-right: 7%;
+}
+.registerSubmitButton {
+  margin-top: 3%;
+  margin-left: 45%;
+}
+.accordionContent {
+  margin-left: 30%;
+  margin-right: 40%;
+}
